@@ -1,0 +1,10 @@
+{
+  "evidence_kind": "AUTHORED_SYNTHETIC_ARITHMETIC",
+  "before": { "values": [2, 4, 6], "count": 3, "sum": 12 },
+  "after": { "values": [4, 6, 8], "count": 3, "sum": 18 },
+  "count_preserved": true,
+  "solution_set_preserved": false,
+  "sum_preserved": false,
+  "canonical_study_url": "https://deomath.org/research/transition-audit",
+  "related_optional_brief_url": "https://deomath.org/library/condition-branch-dossier"
+}
